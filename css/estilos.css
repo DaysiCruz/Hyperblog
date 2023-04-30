@@ -1,6 +1,10 @@
 body 
 {
+<<<<<<< HEAD
     color: goldenrod;
+=======
+    color: rebeccapurple;
+>>>>>>> cabecera
     text-align: center;
     font-family: Arial;
 }
